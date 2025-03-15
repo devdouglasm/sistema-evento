@@ -3,9 +3,7 @@ package com.devdouglasm.sistema_evento.entities;
 import jakarta.persistence.*;
 
 import java.time.Instant;
-import java.util.HashSet;
 import java.util.Objects;
-import java.util.Set;
 
 @Entity
 @Table(name = "tb_bloco")
